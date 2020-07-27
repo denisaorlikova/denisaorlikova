@@ -5,7 +5,7 @@ My name is Denisa and I am a HTML/CSS coder 👩‍💻 and Information and Secu
 
 🔭 I’m currently working on:
 ---------------------------------
-building my frontend coder portfolio - I like coding challenges by [Frontend Mentor](https://www.frontendmentor.io/challenges)
+building my frontend coder portfolio 
 
 
 📫 How to reach me:
