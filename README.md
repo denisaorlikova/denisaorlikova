@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Denisa and I am a HTML/CSS coder 👩‍💻 and Information and Security Systems student 🤖
+My name is Denisa and I am a front-end developer 👩‍💻
 
 
 🔭 I’m currently working on:
